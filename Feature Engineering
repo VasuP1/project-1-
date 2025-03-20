@@ -1,0 +1,12 @@
+Feature Engineering
+Transform the raw data into meaningful features:
+from sklearn.feature_extraction.text import CountVectorizer
+
+def extract_skills(df):
+    vectorizer = CountVectorizer(vocabulary=['python', 'java', 'sql', 'machine learning', 'deep learning'])
+    skill_matrix = vectorizer.fit_transform(df['summary'])
+    skill_df = pd.DataFrame(skill_matrix.toarray(), columns=vectorizer.get_feature_names_out())
+    return pd.concat([df, skill_df], axis=1)
+
+# Example usage
+df = extract_skills(df)
