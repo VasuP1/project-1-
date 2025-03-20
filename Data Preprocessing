@@ -1,0 +1,17 @@
+Data Preprocessing
+After collecting the data, preprocessing is crucial:
+import pandas as pd
+
+def standardize_titles(df):
+    title_mapping = {
+        'software engineer': 'Software Engineer',
+        'developer': 'Software Engineer',
+        'data scientist': 'Data Scientist',
+        # Add more mappings as needed
+    }
+    df['standardized_title'] = df['title'].str.lower().map(title_mapping)
+    return df
+
+# Example usage
+df = pd.DataFrame(jobs)
+df = standardize_titles(df)
