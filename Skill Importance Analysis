@@ -1,0 +1,16 @@
+Skill Importance Analysis
+Determine which skills are most influential in salary predictions:
+import matplotlib.pyplot as plt
+
+def plot_feature_importance(model, feature_names):
+    importance = model.feature_importances_
+    indices = importance.argsort()[::-1]
+    plt.figure(figsize=(10, 6))
+    plt.title("Feature Importance")
+    plt.bar(range(len(importance)), importance[indices], align='center')
+    plt.xticks(range(len(importance)), [feature_names[i] for i in indices], rotation=90)
+    plt.tight_layout()
+    plt.show()
+
+# Example usage
+plot_feature_importance(model, X.columns)
