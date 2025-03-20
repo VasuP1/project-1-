@@ -1,4 +1,4 @@
-1. Data Collection
+Data Collection
 To gather job postings, web scraping is essential. Python offers several libraries for this purpose:
 import requests
 from bs4 import BeautifulSoup
