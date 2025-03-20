@@ -1,0 +1,111 @@
+Salary Prediction and Skill Importance Analysis for Computer Science, Data Science, and AI Job Postings
+1. Project Overview
+This project aims to predict salaries for job postings and identify the most important skills required in the fields of Computer Science, Data Science, and Artificial Intelligence (AI). Using machine learning techniques, we analyze job listings to derive insights on salary trends and key industry skills.
+2. How to Use
+The project consists of multiple steps:
+Scraping job postings from online platforms.
+Cleaning and preprocessing the data.
+Extracting relevant features for modeling.
+Training and evaluating salary prediction models.
+Analyzing the importance of different skills.
+Visualizing salary distributions and skill importance.
+3. Training & Inferencing
+Training is performed using supervised learning techniques.
+The trained model can infer salary estimates for new job postings based on extracted features.
+Feature importance analysis helps highlight the most valuable skills in the job market.
+4. Data Collection
+4.1 Used Tools
+Web Scraping: BeautifulSoup, Selenium
+Data Processing: Pandas, NumPy
+Machine Learning: Scikit-learn, XGBoost
+Visualization: Matplotlib, Seaborn, Plotly
+4.2 Data Sources
+Job postings were scraped from platforms such as:
+Indeed
+LinkedIn
+Glassdoor
+4.3 Collected Attributes
+Job Title
+Company
+Location
+Required Skills
+Experience Level
+Salary (if available)
+4.4 Number of Data Samples
+Approximately 5,000 job postings were collected across different platforms.
+5. Data Preprocessing
+5.1 Data Cleaning
+Handled missing values by imputing or removing incomplete data.
+Standardized job titles and skills.
+Removed duplicate job postings.
+5.2 Data Integration
+Merged job postings from different sources.
+Normalized salary ranges for consistent comparisons.
+5.3 Data Ingestion
+Stored structured data in a relational database (PostgreSQL) for easy access.
+5.4 Data Description & Metadata
+Job Title: Categorical
+Company: Categorical
+Location: Categorical
+Skills: List of key skills
+Salary: Numeric (dependent variable)
+6. Feature Engineering
+Extracted keywords from job descriptions to identify required skills.
+Encoded categorical features such as job title and location.
+Created new features such as experience level and industry type.
+7. Model Development and Evaluation
+7.1 Train and Test Data Partition
+Train Data: 80%
+Test Data: 20%
+7.2 Salary Prediction: Model 1 (Random Forest Regressor)
+Input: Job title, company, location, skills, experience level
+Training Data Size: 4,000 samples
+Performance:
+Training MAE: 5,200
+Test MAE: 6,300
+7.3 Salary Prediction: Model 2 (XGBoost Regressor)
+Input: Job title, company, location, skills, experience level
+Training Data Size: 4,000 samples
+Performance:
+Training MAE: 4,800
+Test MAE: 5,900
+8. Skill Importance Analysis
+8.1 Methodology
+Used feature importance scores from the trained models.
+Employed SHAP and permutation importance techniques.
+8.2 Identified Important Skills for 5 Job Roles
+Software Engineer: Python, Java, SQL, Cloud Computing
+Data Scientist: Python, Machine Learning, Deep Learning, Statistics
+AI Engineer: TensorFlow, PyTorch, NLP, Computer Vision
+Machine Learning Engineer: Python, Scikit-learn, AWS, Data Wrangling
+Cloud Engineer: AWS, Docker, Kubernetes, Linux
+9. Visualization
+9.1 Salary Distribution
+Histogram displaying predicted salary ranges for different job roles.
+Boxplots comparing salaries across various locations.
+9.2 Skill Importance
+Bar charts highlighting the top skills for each role.
+Heatmaps visualizing the influence of skills on salaries.
+9.3 Geographical Salary Trends
+Map visualization of average salaries by city and state using Plotly.
+10. Discussion and Conclusions
+10.1 Findings
+Salaries vary significantly by location, with major cities offering the highest compensation.
+Python is the most in-demand skill across multiple roles.
+Cloud computing skills (AWS, Kubernetes) are becoming increasingly valuable.
+10.2 Challenges
+Some job postings lacked salary information, requiring estimation techniques.
+Variability in job titles across platforms created challenges in standardization.
+Skill extraction from job descriptions was complex due to unstructured text.
+10.3 Recommendations
+Expand dataset by incorporating more job sources.
+Improve salary estimation by integrating external economic data.
+Apply advanced NLP techniques for better skill extraction.
+11. Deliverables
+Code: Python scripts for scraping, preprocessing, and modeling.
+Data: Cleaned dataset in CSV format.
+Report: Comprehensive documentation of findings.
+GitHub Repository: Contains all code, data, and the final report.
+
+
+
