@@ -1,0 +1,21 @@
+1. Data Collection
+To gather job postings, web scraping is essential. Python offers several libraries for this purpose:
+import requests
+from bs4 import BeautifulSoup
+
+def scrape_indeed_jobs(query, location, num_pages):
+    jobs = []
+    for page in range(num_pages):
+        url = f"https://www.indeed.com/jobs?q={query}&l={location}&start={page*10}"
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        for job_card in soup.find_all('div', class_='jobsearch-SerpJobCard'):
+            title = job_card.find('a', class_='jobtitle').text.strip()
+            company = job_card.find('span', class_='company').text.strip()
+            location = job_card.find('div', class_='location').text.strip()
+            summary = job_card.find('div', class_='summary').text.strip()
+            jobs.append({'title': title, 'company': company, 'location': location, 'summary': summary})
+    return jobs
+
+# Example usage
+jobs = scrape_indeed_jobs('data scientist', 'New York, NY', 5)
