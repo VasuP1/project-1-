@@ -1,6 +1,501 @@
 title	company	location	salary	summary	standardized_title	python	java	sql	machine learning	deep learning
-Software Engineer	Google	New York, NY	130000	Knowledge of Java, Python, and SQL required.	Software Engineer	1	1	1	0	0
-Data Scientist	Amazon	New York, NY	150000	Expertise in Python, Machine Learning, Deep Learning.	Data Scientist	1	0	0	1	1
-AI Engineer	Microsoft	New York, NY	145000	Proficiency in Deep Learning and Machine Learning.	AI Engineer	0	0	0	1	1
-Machine Learning Engineer	Facebook	New York, NY	140000	Strong Python and AWS experience needed.	Machine Learning Engineer	1	0	0	0	0
-Software Developer	IBM	New York, NY	125000	Java, SQL, and cloud platforms required.	Software Engineer	0	1	1	0	0
+Software Engineer	Google	Los Angeles, CA	105795	Experience required in java, deep learning, python, sql.	Software Engineer	1	1	1	0	1
+Cloud Engineer	Amazon	Boston, MA	90860	Experience required in python, deep learning, machine learning, sql, java.	Cloud Engineer	1	1	1	1	1
+Cloud Engineer	Airbnb	New York, NY	193694	Experience required in deep learning, machine learning, python.	Cloud Engineer	1	0	0	1	1
+Machine Learning Engineer	Airbnb	Seattle, WA	166820	Experience required in java, machine learning.	Machine Learning Engineer	0	1	0	1	0
+AI Engineer	IBM	San Francisco, CA	144886	Experience required in sql, python, machine learning.	AI Engineer	1	0	1	1	0
+Machine Learning Engineer	Amazon	Seattle, WA	96265	Experience required in deep learning, sql, python, java.	Machine Learning Engineer	1	1	1	0	1
+Cloud Engineer	Amazon	Austin, TX	172386	Experience required in deep learning, sql.	Cloud Engineer	0	0	1	0	1
+Cloud Engineer	Netflix	Boston, MA	127194	Experience required in python, deep learning, sql.	Cloud Engineer	1	0	1	0	1
+Data Scientist	IBM	New York, NY	177498	Experience required in python, machine learning, java.	Data Scientist	1	1	0	1	0
+Machine Learning Engineer	Netflix	San Francisco, CA	134131	Experience required in sql, java, deep learning, machine learning.	Machine Learning Engineer	0	1	1	1	1
+Software Engineer	Airbnb	Los Angeles, CA	150263	Experience required in deep learning, java, python.	Software Engineer	1	1	0	0	1
+Machine Learning Engineer	Apple	Seattle, WA	106023	Experience required in sql, python, machine learning.	Machine Learning Engineer	1	0	1	1	0
+Software Engineer	Netflix	Austin, TX	131090	Experience required in python, java, sql, machine learning.	Software Engineer	1	1	1	1	0
+Data Scientist	Tesla	Austin, TX	157221	Experience required in java, sql, python, machine learning, deep learning.	Data Scientist	1	1	1	1	1
+Cloud Engineer	Apple	Boston, MA	154820	Experience required in sql, java, python, machine learning, deep learning.	Cloud Engineer	1	1	1	1	1
+Software Engineer	Amazon	San Francisco, CA	90769	Experience required in machine learning, python, java.	Software Engineer	1	1	0	1	0
+Machine Learning Engineer	Airbnb	Austin, TX	149735	Experience required in deep learning, python, sql, machine learning.	Machine Learning Engineer	1	0	1	1	1
+Cloud Engineer	IBM	Los Angeles, CA	152955	Experience required in python, sql, java, deep learning.	Cloud Engineer	1	1	1	0	1
+Machine Learning Engineer	Google	Los Angeles, CA	154925	Experience required in deep learning, java, sql, python.	Machine Learning Engineer	1	1	1	0	1
+AI Engineer	Uber	Boston, MA	157969	Experience required in java, sql, python.	AI Engineer	1	1	1	0	0
+Cloud Engineer	Uber	New York, NY	95311	Experience required in machine learning, python, deep learning, java.	Cloud Engineer	1	1	0	1	1
+AI Engineer	Facebook	New York, NY	193355	Experience required in deep learning, python, machine learning.	AI Engineer	1	0	0	1	1
+Machine Learning Engineer	Amazon	Boston, MA	194724	Experience required in java, machine learning, sql.	Machine Learning Engineer	0	1	1	1	0
+Data Scientist	IBM	Boston, MA	173104	Experience required in java, deep learning, sql, machine learning, python.	Data Scientist	1	1	1	1	1
+AI Engineer	Tesla	Boston, MA	143707	Experience required in python, java, deep learning, sql, machine learning.	AI Engineer	1	1	1	1	1
+Software Engineer	Airbnb	Boston, MA	175305	Experience required in deep learning, java, python.	Software Engineer	1	1	0	0	1
+Software Engineer	Google	San Francisco, CA	118693	Experience required in python, sql.	Software Engineer	1	0	1	0	0
+Software Engineer	Uber	San Francisco, CA	161932	Experience required in machine learning, java, sql, python.	Software Engineer	1	1	1	1	0
+Cloud Engineer	Airbnb	Austin, TX	183016	Experience required in machine learning, deep learning, python.	Cloud Engineer	1	0	0	1	1
+Software Engineer	Amazon	Los Angeles, CA	196970	Experience required in sql, machine learning, java, deep learning, python.	Software Engineer	1	1	1	1	1
+Software Engineer	Google	Austin, TX	115658	Experience required in python, java, deep learning, sql.	Software Engineer	1	1	1	0	1
+Cloud Engineer	Tesla	San Francisco, CA	174478	Experience required in java, sql, deep learning, python, machine learning.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	Uber	New York, NY	108431	Experience required in deep learning, python.	Machine Learning Engineer	1	0	0	0	1
+Software Engineer	Facebook	San Francisco, CA	92747	Experience required in machine learning, deep learning, python, java, sql.	Software Engineer	1	1	1	1	1
+Data Scientist	Apple	New York, NY	149150	Experience required in sql, machine learning, java, deep learning, python.	Data Scientist	1	1	1	1	1
+Data Scientist	Facebook	Seattle, WA	155725	Experience required in python, deep learning, sql.	Data Scientist	1	0	1	0	1
+AI Engineer	Google	New York, NY	174654	Experience required in deep learning, java, python, sql, machine learning.	AI Engineer	1	1	1	1	1
+Software Engineer	Airbnb	New York, NY	125773	Experience required in machine learning, python, sql.	Software Engineer	1	0	1	1	0
+Data Scientist	Airbnb	Boston, MA	157435	Experience required in deep learning, python.	Data Scientist	1	0	0	0	1
+Machine Learning Engineer	Airbnb	Boston, MA	146886	Experience required in sql, java, deep learning, machine learning.	Machine Learning Engineer	0	1	1	1	1
+Data Scientist	IBM	Austin, TX	156803	Experience required in sql, machine learning, java.	Data Scientist	0	1	1	1	0
+Software Engineer	Google	Austin, TX	121551	Experience required in python, java.	Software Engineer	1	1	0	0	0
+Cloud Engineer	IBM	San Francisco, CA	101394	Experience required in python, java, machine learning, sql.	Cloud Engineer	1	1	1	1	0
+Data Scientist	Tesla	Boston, MA	159092	Experience required in deep learning, python, sql, java.	Data Scientist	1	1	1	0	1
+Software Engineer	Microsoft	Seattle, WA	93890	Experience required in python, java.	Software Engineer	1	1	0	0	0
+AI Engineer	IBM	Boston, MA	131606	Experience required in sql, java, deep learning.	AI Engineer	0	1	1	0	1
+AI Engineer	Uber	Austin, TX	186276	Experience required in python, deep learning, sql, java.	AI Engineer	1	1	1	0	1
+AI Engineer	Google	New York, NY	170038	Experience required in java, sql, python, deep learning.	AI Engineer	1	1	1	0	1
+Cloud Engineer	Apple	Boston, MA	177313	Experience required in python, deep learning.	Cloud Engineer	1	0	0	0	1
+Data Scientist	Uber	New York, NY	100627	Experience required in deep learning, java, machine learning, python.	Data Scientist	1	1	0	1	1
+Software Engineer	IBM	Seattle, WA	98792	Experience required in sql, java.	Software Engineer	0	1	1	0	0
+Data Scientist	Amazon	Seattle, WA	198859	Experience required in deep learning, java, python, sql, machine learning.	Data Scientist	1	1	1	1	1
+Machine Learning Engineer	Google	San Francisco, CA	198557	Experience required in machine learning, java, deep learning, python.	Machine Learning Engineer	1	1	0	1	1
+Software Engineer	Apple	New York, NY	163969	Experience required in java, deep learning, machine learning, sql, python.	Software Engineer	1	1	1	1	1
+Data Scientist	Facebook	New York, NY	133001	Experience required in machine learning, sql, java.	Data Scientist	0	1	1	1	0
+Software Engineer	IBM	Seattle, WA	166552	Experience required in deep learning, sql, python, machine learning, java.	Software Engineer	1	1	1	1	1
+Data Scientist	Airbnb	Seattle, WA	113897	Experience required in python, machine learning.	Data Scientist	1	0	0	1	0
+AI Engineer	Netflix	Austin, TX	158148	Experience required in machine learning, java.	AI Engineer	0	1	0	1	0
+AI Engineer	Google	Los Angeles, CA	113483	Experience required in python, java, machine learning, sql, deep learning.	AI Engineer	1	1	1	1	1
+AI Engineer	Airbnb	Seattle, WA	138555	Experience required in sql, deep learning.	AI Engineer	0	0	1	0	1
+Machine Learning Engineer	Netflix	Austin, TX	107159	Experience required in deep learning, java, python, machine learning.	Machine Learning Engineer	1	1	0	1	1
+Machine Learning Engineer	Microsoft	Boston, MA	196530	Experience required in machine learning, python, java, sql.	Machine Learning Engineer	1	1	1	1	0
+Data Scientist	Apple	Boston, MA	170077	Experience required in machine learning, deep learning, java, python.	Data Scientist	1	1	0	1	1
+Cloud Engineer	Tesla	Los Angeles, CA	125920	Experience required in python, sql, machine learning.	Cloud Engineer	1	0	1	1	0
+Cloud Engineer	Netflix	New York, NY	182067	Experience required in sql, java, python.	Cloud Engineer	1	1	1	0	0
+Data Scientist	Google	New York, NY	157121	Experience required in machine learning, python, java.	Data Scientist	1	1	0	1	0
+Machine Learning Engineer	Airbnb	San Francisco, CA	159479	Experience required in machine learning, deep learning, python, sql, java.	Machine Learning Engineer	1	1	1	1	1
+Software Engineer	Apple	San Francisco, CA	179475	Experience required in deep learning, machine learning, python.	Software Engineer	1	0	0	1	1
+Cloud Engineer	Facebook	New York, NY	109457	Experience required in java, machine learning, sql, deep learning, python.	Cloud Engineer	1	1	1	1	1
+Cloud Engineer	Uber	Austin, TX	156557	Experience required in java, machine learning, deep learning, sql, python.	Cloud Engineer	1	1	1	1	1
+AI Engineer	Uber	Austin, TX	167189	Experience required in sql, machine learning, python.	AI Engineer	1	0	1	1	0
+AI Engineer	Facebook	Seattle, WA	199109	Experience required in sql, python, machine learning, deep learning.	AI Engineer	1	0	1	1	1
+Data Scientist	Apple	Los Angeles, CA	168953	Experience required in java, python, deep learning.	Data Scientist	1	1	0	0	1
+Machine Learning Engineer	Netflix	Boston, MA	142995	Experience required in machine learning, python, deep learning, java, sql.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Google	Boston, MA	130757	Experience required in machine learning, python, java, sql, deep learning.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	Uber	Los Angeles, CA	99692	Experience required in machine learning, java, deep learning.	Machine Learning Engineer	0	1	0	1	1
+Machine Learning Engineer	Tesla	New York, NY	135758	Experience required in sql, machine learning, deep learning, python, java.	Machine Learning Engineer	1	1	1	1	1
+Data Scientist	Airbnb	Boston, MA	162409	Experience required in machine learning, python.	Data Scientist	1	0	0	1	0
+Software Engineer	Apple	San Francisco, CA	161211	Experience required in java, python, deep learning, sql, machine learning.	Software Engineer	1	1	1	1	1
+Data Scientist	Tesla	Seattle, WA	155697	Experience required in machine learning, sql, java, deep learning.	Data Scientist	0	1	1	1	1
+Software Engineer	Tesla	New York, NY	127065	Experience required in sql, java.	Software Engineer	0	1	1	0	0
+Software Engineer	Google	New York, NY	182093	Experience required in java, python, sql.	Software Engineer	1	1	1	0	0
+Data Scientist	Facebook	San Francisco, CA	189299	Experience required in python, java, machine learning, sql, deep learning.	Data Scientist	1	1	1	1	1
+Data Scientist	Airbnb	Boston, MA	122606	Experience required in java, sql.	Data Scientist	0	1	1	0	0
+Software Engineer	Airbnb	New York, NY	101534	Experience required in deep learning, machine learning, java, python.	Software Engineer	1	1	0	1	1
+Software Engineer	Airbnb	Los Angeles, CA	184663	Experience required in python, sql, machine learning.	Software Engineer	1	0	1	1	0
+Cloud Engineer	Amazon	Boston, MA	130397	Experience required in sql, machine learning.	Cloud Engineer	0	0	1	1	0
+AI Engineer	Amazon	Boston, MA	181387	Experience required in python, machine learning, java, deep learning.	AI Engineer	1	1	0	1	1
+Machine Learning Engineer	Netflix	Los Angeles, CA	91016	Experience required in java, machine learning, python, deep learning, sql.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Apple	Los Angeles, CA	179789	Experience required in sql, java, python, machine learning.	Machine Learning Engineer	1	1	1	1	0
+Machine Learning Engineer	Facebook	Austin, TX	145591	Experience required in sql, python, java, deep learning, machine learning.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Facebook	Seattle, WA	179812	Experience required in sql, deep learning, machine learning, java.	Machine Learning Engineer	0	1	1	1	1
+Cloud Engineer	Google	Boston, MA	113247	Experience required in python, java, sql.	Cloud Engineer	1	1	1	0	0
+Machine Learning Engineer	Tesla	Boston, MA	114300	Experience required in machine learning, deep learning, java.	Machine Learning Engineer	0	1	0	1	1
+Software Engineer	Amazon	Seattle, WA	164065	Experience required in machine learning, java, deep learning.	Software Engineer	0	1	0	1	1
+Cloud Engineer	Netflix	Austin, TX	172798	Experience required in machine learning, sql, java, deep learning.	Cloud Engineer	0	1	1	1	1
+AI Engineer	IBM	Seattle, WA	99268	Experience required in python, java, machine learning.	AI Engineer	1	1	0	1	0
+Software Engineer	Uber	Los Angeles, CA	176807	Experience required in java, deep learning, sql.	Software Engineer	0	1	1	0	1
+Machine Learning Engineer	IBM	Los Angeles, CA	102185	Experience required in python, java, machine learning, deep learning.	Machine Learning Engineer	1	1	0	1	1
+AI Engineer	Microsoft	Seattle, WA	153704	Experience required in deep learning, java.	AI Engineer	0	1	0	0	1
+AI Engineer	Google	New York, NY	176779	Experience required in java, machine learning, python, sql.	AI Engineer	1	1	1	1	0
+Cloud Engineer	IBM	Austin, TX	129099	Experience required in machine learning, sql, python, deep learning, java.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	Amazon	New York, NY	98571	Experience required in machine learning, python, sql, deep learning, java.	Machine Learning Engineer	1	1	1	1	1
+Data Scientist	Airbnb	Seattle, WA	195512	Experience required in java, python.	Data Scientist	1	1	0	0	0
+Cloud Engineer	Apple	Boston, MA	128044	Experience required in deep learning, machine learning, java.	Cloud Engineer	0	1	0	1	1
+Machine Learning Engineer	IBM	Boston, MA	141214	Experience required in sql, python, deep learning, machine learning, java.	Machine Learning Engineer	1	1	1	1	1
+Data Scientist	IBM	Los Angeles, CA	151228	Experience required in java, deep learning.	Data Scientist	0	1	0	0	1
+Data Scientist	Uber	New York, NY	138984	Experience required in python, machine learning, java.	Data Scientist	1	1	0	1	0
+Cloud Engineer	Tesla	Seattle, WA	130774	Experience required in java, sql.	Cloud Engineer	0	1	1	0	0
+AI Engineer	Tesla	New York, NY	92568	Experience required in sql, java, machine learning.	AI Engineer	0	1	1	1	0
+Software Engineer	Uber	San Francisco, CA	152592	Experience required in sql, java, python.	Software Engineer	1	1	1	0	0
+Software Engineer	Microsoft	Seattle, WA	157563	Experience required in machine learning, python, java, sql.	Software Engineer	1	1	1	1	0
+Machine Learning Engineer	IBM	Boston, MA	92695	Experience required in machine learning, python, sql, deep learning, java.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Airbnb	Seattle, WA	138190	Experience required in python, java.	AI Engineer	1	1	0	0	0
+Cloud Engineer	Airbnb	New York, NY	95258	Experience required in deep learning, python, machine learning, java.	Cloud Engineer	1	1	0	1	1
+Cloud Engineer	Tesla	Seattle, WA	177538	Experience required in deep learning, machine learning, sql.	Cloud Engineer	0	0	1	1	1
+Machine Learning Engineer	Amazon	Austin, TX	129504	Experience required in machine learning, sql, java, python.	Machine Learning Engineer	1	1	1	1	0
+Data Scientist	Netflix	Austin, TX	123159	Experience required in sql, machine learning, deep learning, python, java.	Data Scientist	1	1	1	1	1
+Software Engineer	Netflix	Seattle, WA	103986	Experience required in python, machine learning, sql, deep learning.	Software Engineer	1	0	1	1	1
+Cloud Engineer	Tesla	Austin, TX	151858	Experience required in java, sql.	Cloud Engineer	0	1	1	0	0
+Cloud Engineer	Tesla	Los Angeles, CA	102666	Experience required in python, java, machine learning, deep learning, sql.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	Tesla	New York, NY	128660	Experience required in deep learning, java.	Machine Learning Engineer	0	1	0	0	1
+Data Scientist	IBM	Boston, MA	93561	Experience required in deep learning, machine learning.	Data Scientist	0	0	0	1	1
+Software Engineer	Facebook	New York, NY	116854	Experience required in python, java, machine learning, sql, deep learning.	Software Engineer	1	1	1	1	1
+Machine Learning Engineer	Tesla	Austin, TX	154505	Experience required in machine learning, java, deep learning.	Machine Learning Engineer	0	1	0	1	1
+Data Scientist	Airbnb	Boston, MA	194488	Experience required in python, sql, java.	Data Scientist	1	1	1	0	0
+AI Engineer	Uber	Seattle, WA	142251	Experience required in sql, deep learning.	AI Engineer	0	0	1	0	1
+Cloud Engineer	Airbnb	Los Angeles, CA	112662	Experience required in java, machine learning, sql, deep learning, python.	Cloud Engineer	1	1	1	1	1
+AI Engineer	Uber	Boston, MA	98392	Experience required in machine learning, sql, python, deep learning, java.	AI Engineer	1	1	1	1	1
+Data Scientist	Apple	New York, NY	120535	Experience required in machine learning, deep learning, java, python.	Data Scientist	1	1	0	1	1
+Machine Learning Engineer	Google	San Francisco, CA	168603	Experience required in python, machine learning, deep learning, java.	Machine Learning Engineer	1	1	0	1	1
+Software Engineer	Microsoft	Austin, TX	142256	Experience required in python, machine learning, java.	Software Engineer	1	1	0	1	0
+AI Engineer	Airbnb	Los Angeles, CA	179135	Experience required in python, sql, machine learning, java, deep learning.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Uber	New York, NY	125222	Experience required in java, sql.	Machine Learning Engineer	0	1	1	0	0
+Data Scientist	Amazon	Austin, TX	167373	Experience required in python, machine learning.	Data Scientist	1	0	0	1	0
+Data Scientist	IBM	New York, NY	169575	Experience required in sql, python.	Data Scientist	1	0	1	0	0
+AI Engineer	Netflix	Seattle, WA	186354	Experience required in java, deep learning, sql, machine learning, python.	AI Engineer	1	1	1	1	1
+Data Scientist	Microsoft	New York, NY	174651	Experience required in deep learning, java, machine learning, python, sql.	Data Scientist	1	1	1	1	1
+Machine Learning Engineer	IBM	Austin, TX	153335	Experience required in python, machine learning, java, deep learning.	Machine Learning Engineer	1	1	0	1	1
+Software Engineer	Tesla	Seattle, WA	100965	Experience required in machine learning, sql, java, deep learning.	Software Engineer	0	1	1	1	1
+Data Scientist	Apple	Austin, TX	114538	Experience required in java, machine learning.	Data Scientist	0	1	0	1	0
+Cloud Engineer	Netflix	Boston, MA	198066	Experience required in sql, python, deep learning, java.	Cloud Engineer	1	1	1	0	1
+AI Engineer	Google	Boston, MA	160592	Experience required in deep learning, machine learning.	AI Engineer	0	0	0	1	1
+AI Engineer	Facebook	Boston, MA	188018	Experience required in java, deep learning, sql, machine learning.	AI Engineer	0	1	1	1	1
+Data Scientist	Amazon	Los Angeles, CA	98110	Experience required in sql, machine learning.	Data Scientist	0	0	1	1	0
+Software Engineer	Airbnb	Seattle, WA	169309	Experience required in python, sql, java.	Software Engineer	1	1	1	0	0
+Machine Learning Engineer	Microsoft	San Francisco, CA	117266	Experience required in deep learning, sql, machine learning.	Machine Learning Engineer	0	0	1	1	1
+Cloud Engineer	IBM	San Francisco, CA	142992	Experience required in machine learning, sql, deep learning, java.	Cloud Engineer	0	1	1	1	1
+Software Engineer	Tesla	New York, NY	172948	Experience required in java, machine learning, sql.	Software Engineer	0	1	1	1	0
+AI Engineer	Amazon	Austin, TX	188806	Experience required in sql, python.	AI Engineer	1	0	1	0	0
+Machine Learning Engineer	Netflix	Los Angeles, CA	96910	Experience required in deep learning, machine learning, sql, java.	Machine Learning Engineer	0	1	1	1	1
+Software Engineer	Facebook	Austin, TX	180982	Experience required in deep learning, sql.	Software Engineer	0	0	1	0	1
+Cloud Engineer	Facebook	Los Angeles, CA	90206	Experience required in machine learning, sql.	Cloud Engineer	0	0	1	1	0
+Machine Learning Engineer	Amazon	San Francisco, CA	177054	Experience required in python, sql.	Machine Learning Engineer	1	0	1	0	0
+Machine Learning Engineer	Amazon	New York, NY	177897	Experience required in deep learning, java, machine learning.	Machine Learning Engineer	0	1	0	1	1
+Machine Learning Engineer	Netflix	Los Angeles, CA	113419	Experience required in deep learning, java, machine learning, python, sql.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Apple	Seattle, WA	140636	Experience required in sql, java.	Cloud Engineer	0	1	1	0	0
+Machine Learning Engineer	Tesla	San Francisco, CA	140015	Experience required in python, sql, machine learning, java.	Machine Learning Engineer	1	1	1	1	0
+Software Engineer	Apple	Seattle, WA	197059	Experience required in python, machine learning, deep learning.	Software Engineer	1	0	0	1	1
+Data Scientist	Airbnb	New York, NY	144268	Experience required in sql, java.	Data Scientist	0	1	1	0	0
+Data Scientist	Airbnb	San Francisco, CA	177939	Experience required in deep learning, java.	Data Scientist	0	1	0	0	1
+Cloud Engineer	Facebook	San Francisco, CA	108141	Experience required in java, python, deep learning, machine learning.	Cloud Engineer	1	1	0	1	1
+Data Scientist	Uber	Seattle, WA	170356	Experience required in python, deep learning, machine learning.	Data Scientist	1	0	0	1	1
+Software Engineer	Netflix	San Francisco, CA	195878	Experience required in python, java, machine learning, deep learning.	Software Engineer	1	1	0	1	1
+Data Scientist	Apple	Boston, MA	161910	Experience required in python, machine learning.	Data Scientist	1	0	0	1	0
+Machine Learning Engineer	Netflix	Boston, MA	146044	Experience required in machine learning, java.	Machine Learning Engineer	0	1	0	1	0
+Cloud Engineer	Google	Los Angeles, CA	157214	Experience required in machine learning, python, deep learning, java.	Cloud Engineer	1	1	0	1	1
+Machine Learning Engineer	Apple	Los Angeles, CA	123827	Experience required in machine learning, deep learning.	Machine Learning Engineer	0	0	0	1	1
+Software Engineer	Amazon	Seattle, WA	145820	Experience required in python, java, machine learning.	Software Engineer	1	1	0	1	0
+Cloud Engineer	Airbnb	Boston, MA	152623	Experience required in machine learning, sql, java, deep learning.	Cloud Engineer	0	1	1	1	1
+Software Engineer	Amazon	Los Angeles, CA	171734	Experience required in machine learning, deep learning, python.	Software Engineer	1	0	0	1	1
+Machine Learning Engineer	Netflix	Austin, TX	165450	Experience required in machine learning, python, java, sql, deep learning.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Netflix	San Francisco, CA	183426	Experience required in python, deep learning, machine learning, sql, java.	AI Engineer	1	1	1	1	1
+Software Engineer	Netflix	San Francisco, CA	112299	Experience required in deep learning, sql.	Software Engineer	0	0	1	0	1
+Software Engineer	Apple	Seattle, WA	133585	Experience required in python, sql, machine learning, java, deep learning.	Software Engineer	1	1	1	1	1
+Software Engineer	Airbnb	Boston, MA	199225	Experience required in java, machine learning, python.	Software Engineer	1	1	0	1	0
+Software Engineer	Netflix	Boston, MA	154044	Experience required in python, sql, machine learning, deep learning.	Software Engineer	1	0	1	1	1
+Machine Learning Engineer	Uber	Boston, MA	132557	Experience required in deep learning, sql.	Machine Learning Engineer	0	0	1	0	1
+Software Engineer	Microsoft	Seattle, WA	139080	Experience required in sql, deep learning, python, machine learning.	Software Engineer	1	0	1	1	1
+Data Scientist	Airbnb	Los Angeles, CA	199556	Experience required in python, java, sql, deep learning, machine learning.	Data Scientist	1	1	1	1	1
+Cloud Engineer	Facebook	Austin, TX	92693	Experience required in machine learning, sql, python, java, deep learning.	Cloud Engineer	1	1	1	1	1
+AI Engineer	Airbnb	Boston, MA	185003	Experience required in python, java.	AI Engineer	1	1	0	0	0
+Data Scientist	Airbnb	New York, NY	185259	Experience required in sql, machine learning.	Data Scientist	0	0	1	1	0
+Machine Learning Engineer	Tesla	Boston, MA	159163	Experience required in machine learning, sql, python, deep learning, java.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Amazon	Seattle, WA	115939	Experience required in deep learning, sql, python, machine learning, java.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Google	New York, NY	138925	Experience required in sql, java, python.	Cloud Engineer	1	1	1	0	0
+AI Engineer	IBM	Seattle, WA	132941	Experience required in python, machine learning.	AI Engineer	1	0	0	1	0
+Machine Learning Engineer	Microsoft	San Francisco, CA	111834	Experience required in deep learning, java, sql, machine learning, python.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Google	Austin, TX	108047	Experience required in machine learning, python.	Machine Learning Engineer	1	0	0	1	0
+AI Engineer	Airbnb	Austin, TX	116105	Experience required in machine learning, sql, python, java, deep learning.	AI Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Boston, MA	165766	Experience required in sql, python, java, machine learning, deep learning.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Airbnb	Austin, TX	105707	Experience required in machine learning, sql.	Machine Learning Engineer	0	0	1	1	0
+AI Engineer	Facebook	Seattle, WA	111976	Experience required in python, deep learning, sql.	AI Engineer	1	0	1	0	1
+Cloud Engineer	Facebook	Seattle, WA	134262	Experience required in java, deep learning, python, sql.	Cloud Engineer	1	1	1	0	1
+AI Engineer	Facebook	San Francisco, CA	113776	Experience required in python, java, sql.	AI Engineer	1	1	1	0	0
+Machine Learning Engineer	Tesla	Boston, MA	120080	Experience required in deep learning, sql, machine learning, java, python.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Amazon	Austin, TX	156842	Experience required in sql, deep learning, machine learning, python, java.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Amazon	Seattle, WA	151373	Experience required in machine learning, python, deep learning, java, sql.	Cloud Engineer	1	1	1	1	1
+Software Engineer	Amazon	Boston, MA	96776	Experience required in machine learning, python, java, deep learning, sql.	Software Engineer	1	1	1	1	1
+Cloud Engineer	Tesla	Boston, MA	182787	Experience required in python, machine learning, deep learning.	Cloud Engineer	1	0	0	1	1
+AI Engineer	Amazon	Boston, MA	145016	Experience required in python, java, sql.	AI Engineer	1	1	1	0	0
+Machine Learning Engineer	Tesla	Boston, MA	99474	Experience required in sql, deep learning, java.	Machine Learning Engineer	0	1	1	0	1
+Machine Learning Engineer	Apple	Seattle, WA	195830	Experience required in sql, python.	Machine Learning Engineer	1	0	1	0	0
+AI Engineer	Amazon	Boston, MA	148053	Experience required in sql, deep learning, machine learning, python, java.	AI Engineer	1	1	1	1	1
+Software Engineer	Airbnb	Los Angeles, CA	111959	Experience required in sql, deep learning, machine learning.	Software Engineer	0	0	1	1	1
+Machine Learning Engineer	Microsoft	Boston, MA	95530	Experience required in sql, machine learning.	Machine Learning Engineer	0	0	1	1	0
+AI Engineer	Microsoft	Los Angeles, CA	184856	Experience required in machine learning, sql.	AI Engineer	0	0	1	1	0
+Software Engineer	Netflix	Seattle, WA	93748	Experience required in java, sql, deep learning.	Software Engineer	0	1	1	0	1
+Data Scientist	Facebook	San Francisco, CA	187504	Experience required in python, sql, deep learning.	Data Scientist	1	0	1	0	1
+Cloud Engineer	Uber	Los Angeles, CA	188098	Experience required in sql, java.	Cloud Engineer	0	1	1	0	0
+Cloud Engineer	Apple	San Francisco, CA	103545	Experience required in java, deep learning, sql.	Cloud Engineer	0	1	1	0	1
+Machine Learning Engineer	Google	Austin, TX	156199	Experience required in java, machine learning, sql, deep learning.	Machine Learning Engineer	0	1	1	1	1
+Machine Learning Engineer	Facebook	Boston, MA	124766	Experience required in sql, machine learning, python.	Machine Learning Engineer	1	0	1	1	0
+AI Engineer	Airbnb	Austin, TX	163530	Experience required in sql, machine learning, deep learning, java, python.	AI Engineer	1	1	1	1	1
+Data Scientist	Airbnb	San Francisco, CA	183557	Experience required in python, machine learning, java, deep learning.	Data Scientist	1	1	0	1	1
+Cloud Engineer	Amazon	Seattle, WA	151087	Experience required in java, sql.	Cloud Engineer	0	1	1	0	0
+Machine Learning Engineer	Uber	San Francisco, CA	185839	Experience required in python, java, machine learning, sql, deep learning.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Google	Austin, TX	158840	Experience required in java, machine learning, python, deep learning.	Machine Learning Engineer	1	1	0	1	1
+Data Scientist	Google	Seattle, WA	144384	Experience required in sql, java.	Data Scientist	0	1	1	0	0
+Data Scientist	Google	Seattle, WA	141005	Experience required in java, machine learning, deep learning, python, sql.	Data Scientist	1	1	1	1	1
+Software Engineer	IBM	San Francisco, CA	136576	Experience required in deep learning, machine learning, python.	Software Engineer	1	0	0	1	1
+AI Engineer	Facebook	Seattle, WA	129353	Experience required in python, java.	AI Engineer	1	1	0	0	0
+Machine Learning Engineer	Airbnb	Austin, TX	152003	Experience required in python, machine learning.	Machine Learning Engineer	1	0	0	1	0
+Cloud Engineer	Uber	New York, NY	173211	Experience required in java, sql, deep learning.	Cloud Engineer	0	1	1	0	1
+Software Engineer	Airbnb	Seattle, WA	142733	Experience required in deep learning, machine learning, python.	Software Engineer	1	0	0	1	1
+Software Engineer	Uber	Seattle, WA	155318	Experience required in deep learning, python.	Software Engineer	1	0	0	0	1
+Machine Learning Engineer	Tesla	New York, NY	199953	Experience required in sql, deep learning, machine learning, python, java.	Machine Learning Engineer	1	1	1	1	1
+Software Engineer	Netflix	San Francisco, CA	179474	Experience required in deep learning, sql.	Software Engineer	0	0	1	0	1
+Data Scientist	Google	Seattle, WA	113664	Experience required in java, machine learning, sql, deep learning.	Data Scientist	0	1	1	1	1
+Data Scientist	Microsoft	New York, NY	157172	Experience required in python, sql, deep learning, machine learning, java.	Data Scientist	1	1	1	1	1
+Software Engineer	Netflix	Seattle, WA	175616	Experience required in deep learning, machine learning, java, python, sql.	Software Engineer	1	1	1	1	1
+AI Engineer	Netflix	New York, NY	183264	Experience required in sql, python, java, deep learning.	AI Engineer	1	1	1	0	1
+Machine Learning Engineer	Tesla	Austin, TX	116736	Experience required in java, machine learning, sql, deep learning.	Machine Learning Engineer	0	1	1	1	1
+AI Engineer	Uber	Seattle, WA	184209	Experience required in machine learning, python.	AI Engineer	1	0	0	1	0
+Machine Learning Engineer	Airbnb	San Francisco, CA	193041	Experience required in sql, python, machine learning, java.	Machine Learning Engineer	1	1	1	1	0
+AI Engineer	IBM	Austin, TX	90854	Experience required in java, machine learning, deep learning, sql, python.	AI Engineer	1	1	1	1	1
+AI Engineer	Airbnb	Austin, TX	180084	Experience required in python, deep learning, sql, java.	AI Engineer	1	1	1	0	1
+AI Engineer	Uber	Los Angeles, CA	128623	Experience required in python, java, sql.	AI Engineer	1	1	1	0	0
+Machine Learning Engineer	Google	San Francisco, CA	97392	Experience required in java, sql.	Machine Learning Engineer	0	1	1	0	0
+AI Engineer	Apple	Boston, MA	145680	Experience required in deep learning, java.	AI Engineer	0	1	0	0	1
+Machine Learning Engineer	Netflix	Seattle, WA	136717	Experience required in python, java, sql, machine learning, deep learning.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	IBM	San Francisco, CA	177092	Experience required in python, java.	AI Engineer	1	1	0	0	0
+Machine Learning Engineer	Uber	Austin, TX	140859	Experience required in sql, deep learning.	Machine Learning Engineer	0	0	1	0	1
+Machine Learning Engineer	Facebook	Boston, MA	194095	Experience required in machine learning, java, python, sql.	Machine Learning Engineer	1	1	1	1	0
+Software Engineer	Tesla	San Francisco, CA	116309	Experience required in python, sql, machine learning, java, deep learning.	Software Engineer	1	1	1	1	1
+Cloud Engineer	Uber	Seattle, WA	177455	Experience required in java, deep learning, machine learning, python.	Cloud Engineer	1	1	0	1	1
+Software Engineer	Facebook	San Francisco, CA	153734	Experience required in machine learning, python, java.	Software Engineer	1	1	0	1	0
+Cloud Engineer	Airbnb	Seattle, WA	160467	Experience required in deep learning, java, sql, python, machine learning.	Cloud Engineer	1	1	1	1	1
+AI Engineer	Apple	Los Angeles, CA	142662	Experience required in deep learning, machine learning, java, python, sql.	AI Engineer	1	1	1	1	1
+AI Engineer	Amazon	Austin, TX	188506	Experience required in deep learning, sql, python, machine learning, java.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Uber	New York, NY	199751	Experience required in deep learning, java.	Machine Learning Engineer	0	1	0	0	1
+AI Engineer	Microsoft	San Francisco, CA	102688	Experience required in java, sql, machine learning, deep learning.	AI Engineer	0	1	1	1	1
+Software Engineer	IBM	San Francisco, CA	115342	Experience required in java, sql, machine learning, python.	Software Engineer	1	1	1	1	0
+Cloud Engineer	Microsoft	Boston, MA	127157	Experience required in java, sql, machine learning.	Cloud Engineer	0	1	1	1	0
+Software Engineer	Google	New York, NY	157863	Experience required in deep learning, sql.	Software Engineer	0	0	1	0	1
+Data Scientist	Airbnb	Austin, TX	196308	Experience required in machine learning, sql.	Data Scientist	0	0	1	1	0
+AI Engineer	Tesla	San Francisco, CA	142083	Experience required in sql, machine learning, python, deep learning, java.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Apple	Austin, TX	196081	Experience required in java, sql, machine learning, python, deep learning.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Netflix	Austin, TX	155733	Experience required in sql, python, java.	AI Engineer	1	1	1	0	0
+Data Scientist	Tesla	New York, NY	179045	Experience required in machine learning, java, python, sql.	Data Scientist	1	1	1	1	0
+Software Engineer	IBM	Austin, TX	124698	Experience required in java, deep learning, machine learning, sql, python.	Software Engineer	1	1	1	1	1
+Data Scientist	Tesla	Boston, MA	170623	Experience required in machine learning, sql, java, python, deep learning.	Data Scientist	1	1	1	1	1
+Machine Learning Engineer	Uber	Austin, TX	112671	Experience required in java, sql, python.	Machine Learning Engineer	1	1	1	0	0
+Software Engineer	IBM	Austin, TX	115184	Experience required in sql, python, machine learning, java, deep learning.	Software Engineer	1	1	1	1	1
+AI Engineer	Netflix	Austin, TX	183384	Experience required in python, machine learning, deep learning, sql.	AI Engineer	1	0	1	1	1
+AI Engineer	Uber	Seattle, WA	132107	Experience required in machine learning, deep learning.	AI Engineer	0	0	0	1	1
+Cloud Engineer	IBM	Boston, MA	176202	Experience required in java, python.	Cloud Engineer	1	1	0	0	0
+Machine Learning Engineer	Netflix	Seattle, WA	199893	Experience required in java, deep learning, sql, machine learning.	Machine Learning Engineer	0	1	1	1	1
+Cloud Engineer	Google	New York, NY	141663	Experience required in java, sql.	Cloud Engineer	0	1	1	0	0
+Machine Learning Engineer	Uber	Austin, TX	105708	Experience required in deep learning, java, machine learning.	Machine Learning Engineer	0	1	0	1	1
+Cloud Engineer	Netflix	San Francisco, CA	181906	Experience required in deep learning, sql, machine learning, java, python.	Cloud Engineer	1	1	1	1	1
+Cloud Engineer	IBM	Austin, TX	139811	Experience required in sql, deep learning.	Cloud Engineer	0	0	1	0	1
+Software Engineer	Apple	Boston, MA	92811	Experience required in python, machine learning, java, deep learning.	Software Engineer	1	1	0	1	1
+Software Engineer	Airbnb	Austin, TX	146250	Experience required in deep learning, machine learning, python.	Software Engineer	1	0	0	1	1
+Data Scientist	Google	Boston, MA	162082	Experience required in java, python.	Data Scientist	1	1	0	0	0
+Machine Learning Engineer	Netflix	Austin, TX	124754	Experience required in machine learning, java, deep learning.	Machine Learning Engineer	0	1	0	1	1
+Cloud Engineer	Airbnb	Austin, TX	185742	Experience required in java, deep learning.	Cloud Engineer	0	1	0	0	1
+Cloud Engineer	Netflix	Los Angeles, CA	196642	Experience required in deep learning, machine learning, java, python, sql.	Cloud Engineer	1	1	1	1	1
+Cloud Engineer	Netflix	Boston, MA	101411	Experience required in sql, machine learning, python, deep learning.	Cloud Engineer	1	0	1	1	1
+AI Engineer	Uber	Seattle, WA	92911	Experience required in sql, deep learning, machine learning.	AI Engineer	0	0	1	1	1
+Data Scientist	Tesla	Seattle, WA	157270	Experience required in sql, deep learning, java, python, machine learning.	Data Scientist	1	1	1	1	1
+Machine Learning Engineer	Netflix	San Francisco, CA	173763	Experience required in python, sql, machine learning, deep learning.	Machine Learning Engineer	1	0	1	1	1
+AI Engineer	Tesla	Los Angeles, CA	98680	Experience required in machine learning, java, python, deep learning.	AI Engineer	1	1	0	1	1
+Cloud Engineer	IBM	San Francisco, CA	174896	Experience required in deep learning, java.	Cloud Engineer	0	1	0	0	1
+Data Scientist	Google	Los Angeles, CA	173879	Experience required in java, python, machine learning.	Data Scientist	1	1	0	1	0
+Machine Learning Engineer	Netflix	Los Angeles, CA	161295	Experience required in python, java, deep learning, sql, machine learning.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Tesla	Los Angeles, CA	178614	Experience required in sql, deep learning, java.	Machine Learning Engineer	0	1	1	0	1
+Software Engineer	Amazon	Los Angeles, CA	190689	Experience required in deep learning, python, machine learning.	Software Engineer	1	0	0	1	1
+Machine Learning Engineer	Microsoft	New York, NY	101111	Experience required in machine learning, java, sql, deep learning, python.	Machine Learning Engineer	1	1	1	1	1
+Software Engineer	IBM	Boston, MA	127504	Experience required in sql, deep learning.	Software Engineer	0	0	1	0	1
+Machine Learning Engineer	Uber	Boston, MA	91802	Experience required in java, machine learning, deep learning, python, sql.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Los Angeles, CA	98155	Experience required in sql, java, python, machine learning, deep learning.	AI Engineer	1	1	1	1	1
+Cloud Engineer	Facebook	San Francisco, CA	163656	Experience required in machine learning, sql, python, java, deep learning.	Cloud Engineer	1	1	1	1	1
+Data Scientist	Microsoft	Austin, TX	129384	Experience required in java, python, deep learning, sql.	Data Scientist	1	1	1	0	1
+Data Scientist	Tesla	Seattle, WA	137254	Experience required in sql, python, java, deep learning.	Data Scientist	1	1	1	0	1
+Data Scientist	Google	Los Angeles, CA	111918	Experience required in machine learning, sql.	Data Scientist	0	0	1	1	0
+Data Scientist	Apple	Los Angeles, CA	175981	Experience required in python, sql, java, deep learning.	Data Scientist	1	1	1	0	1
+Data Scientist	Microsoft	Austin, TX	150713	Experience required in machine learning, sql, java.	Data Scientist	0	1	1	1	0
+Cloud Engineer	Tesla	Boston, MA	120306	Experience required in java, python, sql.	Cloud Engineer	1	1	1	0	0
+Machine Learning Engineer	Uber	Los Angeles, CA	106646	Experience required in python, deep learning, machine learning, sql.	Machine Learning Engineer	1	0	1	1	1
+Cloud Engineer	Uber	San Francisco, CA	136843	Experience required in sql, machine learning, python.	Cloud Engineer	1	0	1	1	0
+Data Scientist	Airbnb	Austin, TX	186601	Experience required in deep learning, machine learning.	Data Scientist	0	0	0	1	1
+Software Engineer	Tesla	San Francisco, CA	180735	Experience required in machine learning, python, sql, java, deep learning.	Software Engineer	1	1	1	1	1
+Software Engineer	Apple	Seattle, WA	197512	Experience required in java, python.	Software Engineer	1	1	0	0	0
+Software Engineer	Apple	Seattle, WA	106371	Experience required in deep learning, python.	Software Engineer	1	0	0	0	1
+Software Engineer	Tesla	New York, NY	167371	Experience required in machine learning, java, python, deep learning.	Software Engineer	1	1	0	1	1
+AI Engineer	Apple	Austin, TX	92049	Experience required in machine learning, python, sql, deep learning, java.	AI Engineer	1	1	1	1	1
+Software Engineer	Microsoft	Boston, MA	121616	Experience required in deep learning, java, sql, python, machine learning.	Software Engineer	1	1	1	1	1
+Software Engineer	IBM	Austin, TX	193727	Experience required in deep learning, machine learning, python, sql, java.	Software Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Seattle, WA	110932	Experience required in python, deep learning, sql.	AI Engineer	1	0	1	0	1
+Machine Learning Engineer	Airbnb	New York, NY	119855	Experience required in java, python, machine learning.	Machine Learning Engineer	1	1	0	1	0
+Cloud Engineer	Google	Austin, TX	151434	Experience required in java, python.	Cloud Engineer	1	1	0	0	0
+Machine Learning Engineer	Tesla	San Francisco, CA	162694	Experience required in python, java, sql.	Machine Learning Engineer	1	1	1	0	0
+AI Engineer	Facebook	Los Angeles, CA	133016	Experience required in deep learning, sql, python, java.	AI Engineer	1	1	1	0	1
+Data Scientist	Uber	San Francisco, CA	97400	Experience required in sql, deep learning, python, machine learning, java.	Data Scientist	1	1	1	1	1
+Cloud Engineer	Tesla	New York, NY	132642	Experience required in machine learning, sql, deep learning, java.	Cloud Engineer	0	1	1	1	1
+Machine Learning Engineer	Microsoft	Seattle, WA	105151	Experience required in java, machine learning, python, sql, deep learning.	Machine Learning Engineer	1	1	1	1	1
+Data Scientist	Tesla	New York, NY	141407	Experience required in machine learning, java, deep learning, python, sql.	Data Scientist	1	1	1	1	1
+Data Scientist	Netflix	Los Angeles, CA	156690	Experience required in machine learning, sql.	Data Scientist	0	0	1	1	0
+Software Engineer	Uber	Los Angeles, CA	94499	Experience required in python, sql, java.	Software Engineer	1	1	1	0	0
+Cloud Engineer	Airbnb	New York, NY	96295	Experience required in java, deep learning.	Cloud Engineer	0	1	0	0	1
+Machine Learning Engineer	Facebook	Seattle, WA	149040	Experience required in python, java, deep learning, sql.	Machine Learning Engineer	1	1	1	0	1
+Machine Learning Engineer	Facebook	Los Angeles, CA	102183	Experience required in machine learning, java, sql.	Machine Learning Engineer	0	1	1	1	0
+AI Engineer	IBM	Austin, TX	119299	Experience required in deep learning, sql, java, machine learning, python.	AI Engineer	1	1	1	1	1
+Cloud Engineer	Tesla	Austin, TX	102874	Experience required in machine learning, sql.	Cloud Engineer	0	0	1	1	0
+Data Scientist	Netflix	Seattle, WA	122711	Experience required in python, java, sql, deep learning, machine learning.	Data Scientist	1	1	1	1	1
+AI Engineer	Uber	Boston, MA	95539	Experience required in sql, java, python, machine learning, deep learning.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Airbnb	San Francisco, CA	197941	Experience required in deep learning, sql, java, machine learning, python.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Microsoft	Los Angeles, CA	143351	Experience required in java, deep learning, sql, machine learning.	Machine Learning Engineer	0	1	1	1	1
+Data Scientist	Uber	Los Angeles, CA	151267	Experience required in deep learning, python.	Data Scientist	1	0	0	0	1
+Software Engineer	Google	New York, NY	138354	Experience required in java, deep learning, python, sql, machine learning.	Software Engineer	1	1	1	1	1
+Data Scientist	Uber	Austin, TX	92557	Experience required in python, machine learning, sql, java.	Data Scientist	1	1	1	1	0
+Software Engineer	Google	Boston, MA	128360	Experience required in python, deep learning, sql, java, machine learning.	Software Engineer	1	1	1	1	1
+Software Engineer	Uber	Los Angeles, CA	172018	Experience required in java, python, machine learning, sql, deep learning.	Software Engineer	1	1	1	1	1
+Data Scientist	Airbnb	Boston, MA	92200	Experience required in sql, deep learning, java, python.	Data Scientist	1	1	1	0	1
+AI Engineer	Apple	Austin, TX	158497	Experience required in java, sql, machine learning.	AI Engineer	0	1	1	1	0
+Software Engineer	Google	New York, NY	136975	Experience required in machine learning, deep learning, sql, java, python.	Software Engineer	1	1	1	1	1
+Software Engineer	Microsoft	New York, NY	111357	Experience required in machine learning, sql, deep learning, python, java.	Software Engineer	1	1	1	1	1
+Data Scientist	Facebook	Los Angeles, CA	167505	Experience required in sql, python, machine learning, java, deep learning.	Data Scientist	1	1	1	1	1
+Data Scientist	Netflix	New York, NY	92869	Experience required in deep learning, java, sql.	Data Scientist	0	1	1	0	1
+Machine Learning Engineer	Amazon	Seattle, WA	151135	Experience required in deep learning, java, sql.	Machine Learning Engineer	0	1	1	0	1
+Machine Learning Engineer	Uber	Seattle, WA	140108	Experience required in java, python, sql, deep learning, machine learning.	Machine Learning Engineer	1	1	1	1	1
+Software Engineer	Apple	San Francisco, CA	184179	Experience required in sql, machine learning.	Software Engineer	0	0	1	1	0
+AI Engineer	Google	Los Angeles, CA	180272	Experience required in machine learning, deep learning, python, java.	AI Engineer	1	1	0	1	1
+Cloud Engineer	Apple	Austin, TX	128467	Experience required in deep learning, machine learning, python.	Cloud Engineer	1	0	0	1	1
+Cloud Engineer	IBM	San Francisco, CA	113328	Experience required in python, sql.	Cloud Engineer	1	0	1	0	0
+Data Scientist	Apple	Los Angeles, CA	181412	Experience required in machine learning, sql, java.	Data Scientist	0	1	1	1	0
+Software Engineer	Amazon	New York, NY	176831	Experience required in machine learning, sql, java, python.	Software Engineer	1	1	1	1	0
+Data Scientist	Amazon	San Francisco, CA	93987	Experience required in machine learning, deep learning, python, sql, java.	Data Scientist	1	1	1	1	1
+AI Engineer	Uber	New York, NY	148871	Experience required in machine learning, python, java, sql.	AI Engineer	1	1	1	1	0
+Machine Learning Engineer	Amazon	Los Angeles, CA	112399	Experience required in deep learning, java, sql.	Machine Learning Engineer	0	1	1	0	1
+Machine Learning Engineer	Microsoft	San Francisco, CA	136214	Experience required in sql, deep learning, java, python.	Machine Learning Engineer	1	1	1	0	1
+Software Engineer	Microsoft	Austin, TX	189522	Experience required in machine learning, sql, java, python.	Software Engineer	1	1	1	1	0
+AI Engineer	IBM	San Francisco, CA	176416	Experience required in deep learning, java, machine learning, python, sql.	AI Engineer	1	1	1	1	1
+AI Engineer	Google	Austin, TX	160271	Experience required in deep learning, machine learning, java, sql.	AI Engineer	0	1	1	1	1
+AI Engineer	Apple	Los Angeles, CA	134064	Experience required in sql, deep learning, machine learning.	AI Engineer	0	0	1	1	1
+Data Scientist	Tesla	Seattle, WA	160091	Experience required in machine learning, sql, java.	Data Scientist	0	1	1	1	0
+Machine Learning Engineer	Airbnb	San Francisco, CA	197450	Experience required in machine learning, sql, java, deep learning.	Machine Learning Engineer	0	1	1	1	1
+Software Engineer	Airbnb	San Francisco, CA	130818	Experience required in deep learning, python, sql.	Software Engineer	1	0	1	0	1
+Machine Learning Engineer	Facebook	Austin, TX	135525	Experience required in python, machine learning, sql, java.	Machine Learning Engineer	1	1	1	1	0
+Data Scientist	IBM	San Francisco, CA	109830	Experience required in java, machine learning, deep learning, python.	Data Scientist	1	1	0	1	1
+Machine Learning Engineer	Airbnb	Austin, TX	107429	Experience required in deep learning, machine learning, sql, python, java.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Airbnb	Los Angeles, CA	96893	Experience required in python, java.	Cloud Engineer	1	1	0	0	0
+AI Engineer	Microsoft	Los Angeles, CA	169909	Experience required in deep learning, machine learning.	AI Engineer	0	0	0	1	1
+AI Engineer	Apple	New York, NY	137333	Experience required in python, sql.	AI Engineer	1	0	1	0	0
+Data Scientist	Uber	Los Angeles, CA	93436	Experience required in machine learning, sql, java.	Data Scientist	0	1	1	1	0
+Machine Learning Engineer	Airbnb	Los Angeles, CA	164290	Experience required in sql, python, java.	Machine Learning Engineer	1	1	1	0	0
+Software Engineer	IBM	Austin, TX	166213	Experience required in python, java.	Software Engineer	1	1	0	0	0
+AI Engineer	IBM	Seattle, WA	95895	Experience required in java, machine learning, deep learning, sql, python.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Tesla	Seattle, WA	109738	Experience required in sql, python.	Machine Learning Engineer	1	0	1	0	0
+Software Engineer	Google	Seattle, WA	120746	Experience required in java, deep learning.	Software Engineer	0	1	0	0	1
+Cloud Engineer	Microsoft	Boston, MA	139377	Experience required in sql, machine learning, java.	Cloud Engineer	0	1	1	1	0
+Data Scientist	Apple	Los Angeles, CA	138404	Experience required in java, machine learning, deep learning.	Data Scientist	0	1	0	1	1
+Software Engineer	Airbnb	San Francisco, CA	144045	Experience required in deep learning, machine learning, java, python, sql.	Software Engineer	1	1	1	1	1
+Data Scientist	IBM	Los Angeles, CA	187888	Experience required in deep learning, python.	Data Scientist	1	0	0	0	1
+Cloud Engineer	Microsoft	Seattle, WA	129790	Experience required in java, machine learning, python, deep learning.	Cloud Engineer	1	1	0	1	1
+Machine Learning Engineer	Uber	Los Angeles, CA	197455	Experience required in deep learning, machine learning, sql, java.	Machine Learning Engineer	0	1	1	1	1
+Cloud Engineer	Amazon	Seattle, WA	95600	Experience required in machine learning, java, sql, deep learning.	Cloud Engineer	0	1	1	1	1
+Cloud Engineer	Airbnb	New York, NY	184660	Experience required in sql, python, machine learning.	Cloud Engineer	1	0	1	1	0
+AI Engineer	Amazon	San Francisco, CA	183179	Experience required in java, machine learning, deep learning, python.	AI Engineer	1	1	0	1	1
+Cloud Engineer	Apple	Austin, TX	130764	Experience required in machine learning, java, sql.	Cloud Engineer	0	1	1	1	0
+Data Scientist	Tesla	Seattle, WA	164543	Experience required in java, sql, deep learning.	Data Scientist	0	1	1	0	1
+Cloud Engineer	Google	Seattle, WA	135714	Experience required in machine learning, java.	Cloud Engineer	0	1	0	1	0
+Data Scientist	Apple	Boston, MA	146835	Experience required in machine learning, deep learning, java, sql, python.	Data Scientist	1	1	1	1	1
+Data Scientist	Amazon	Boston, MA	192946	Experience required in java, sql.	Data Scientist	0	1	1	0	0
+Software Engineer	IBM	San Francisco, CA	199616	Experience required in java, machine learning, sql, deep learning.	Software Engineer	0	1	1	1	1
+Cloud Engineer	Uber	New York, NY	195983	Experience required in sql, deep learning.	Cloud Engineer	0	0	1	0	1
+Cloud Engineer	Google	Los Angeles, CA	163744	Experience required in deep learning, java, machine learning, python, sql.	Cloud Engineer	1	1	1	1	1
+AI Engineer	Google	Austin, TX	146491	Experience required in sql, python, java, machine learning.	AI Engineer	1	1	1	1	0
+Data Scientist	Facebook	Los Angeles, CA	108589	Experience required in deep learning, machine learning, python, sql.	Data Scientist	1	0	1	1	1
+Data Scientist	Facebook	New York, NY	133484	Experience required in deep learning, sql, machine learning, python.	Data Scientist	1	0	1	1	1
+AI Engineer	IBM	Seattle, WA	172989	Experience required in deep learning, python, machine learning, java.	AI Engineer	1	1	0	1	1
+Software Engineer	IBM	Los Angeles, CA	126212	Experience required in java, deep learning, python.	Software Engineer	1	1	0	0	1
+AI Engineer	Facebook	Los Angeles, CA	133525	Experience required in machine learning, java, sql, deep learning, python.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Tesla	New York, NY	137202	Experience required in machine learning, sql.	Machine Learning Engineer	0	0	1	1	0
+AI Engineer	Tesla	Austin, TX	122635	Experience required in deep learning, python, sql, machine learning.	AI Engineer	1	0	1	1	1
+Machine Learning Engineer	Netflix	New York, NY	153208	Experience required in java, machine learning, python, deep learning, sql.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	IBM	Seattle, WA	123828	Experience required in deep learning, machine learning, java.	AI Engineer	0	1	0	1	1
+Software Engineer	Google	New York, NY	108711	Experience required in python, deep learning, machine learning, java, sql.	Software Engineer	1	1	1	1	1
+Software Engineer	Apple	San Francisco, CA	93420	Experience required in sql, java, machine learning.	Software Engineer	0	1	1	1	0
+Software Engineer	Netflix	Seattle, WA	186752	Experience required in sql, java.	Software Engineer	0	1	1	0	0
+Software Engineer	Apple	Los Angeles, CA	90301	Experience required in java, machine learning, sql, python.	Software Engineer	1	1	1	1	0
+Software Engineer	Google	San Francisco, CA	135236	Experience required in python, java, sql, deep learning, machine learning.	Software Engineer	1	1	1	1	1
+Software Engineer	Google	Los Angeles, CA	156235	Experience required in python, machine learning, sql, deep learning.	Software Engineer	1	0	1	1	1
+Machine Learning Engineer	Amazon	San Francisco, CA	144240	Experience required in python, deep learning, machine learning, java, sql.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Austin, TX	155726	Experience required in java, python, sql.	AI Engineer	1	1	1	0	0
+Cloud Engineer	Google	Boston, MA	100492	Experience required in machine learning, sql, deep learning.	Cloud Engineer	0	0	1	1	1
+Data Scientist	Microsoft	Austin, TX	191279	Experience required in java, python, machine learning, sql, deep learning.	Data Scientist	1	1	1	1	1
+Cloud Engineer	Apple	Seattle, WA	96102	Experience required in sql, java, python, machine learning, deep learning.	Cloud Engineer	1	1	1	1	1
+Data Scientist	Uber	Boston, MA	140336	Experience required in python, sql, deep learning, machine learning.	Data Scientist	1	0	1	1	1
+Machine Learning Engineer	IBM	Los Angeles, CA	175314	Experience required in java, machine learning.	Machine Learning Engineer	0	1	0	1	0
+Machine Learning Engineer	Amazon	San Francisco, CA	116641	Experience required in deep learning, python, sql, machine learning, java.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Austin, TX	124584	Experience required in sql, java, machine learning, python, deep learning.	AI Engineer	1	1	1	1	1
+Cloud Engineer	Amazon	New York, NY	122745	Experience required in java, python, machine learning, deep learning.	Cloud Engineer	1	1	0	1	1
+Cloud Engineer	IBM	Los Angeles, CA	113093	Experience required in machine learning, deep learning, python, sql, java.	Cloud Engineer	1	1	1	1	1
+Software Engineer	IBM	New York, NY	156105	Experience required in java, sql, deep learning.	Software Engineer	0	1	1	0	1
+Cloud Engineer	Amazon	Seattle, WA	193746	Experience required in java, python, machine learning, sql, deep learning.	Cloud Engineer	1	1	1	1	1
+Software Engineer	Tesla	Boston, MA	190199	Experience required in sql, java.	Software Engineer	0	1	1	0	0
+Software Engineer	Google	Los Angeles, CA	141885	Experience required in python, java, machine learning.	Software Engineer	1	1	0	1	0
+AI Engineer	Uber	Boston, MA	126631	Experience required in java, sql, python, deep learning.	AI Engineer	1	1	1	0	1
+Software Engineer	Google	Seattle, WA	162991	Experience required in sql, python, java, machine learning, deep learning.	Software Engineer	1	1	1	1	1
+Machine Learning Engineer	Uber	Seattle, WA	94014	Experience required in machine learning, java.	Machine Learning Engineer	0	1	0	1	0
+AI Engineer	Microsoft	Seattle, WA	101093	Experience required in deep learning, python.	AI Engineer	1	0	0	0	1
+Data Scientist	Uber	New York, NY	108070	Experience required in python, java.	Data Scientist	1	1	0	0	0
+Software Engineer	Tesla	Seattle, WA	125777	Experience required in java, deep learning, python, machine learning, sql.	Software Engineer	1	1	1	1	1
+AI Engineer	Facebook	Austin, TX	146958	Experience required in sql, python, deep learning, java.	AI Engineer	1	1	1	0	1
+Software Engineer	Uber	Los Angeles, CA	172074	Experience required in java, deep learning.	Software Engineer	0	1	0	0	1
+Cloud Engineer	Google	Austin, TX	100729	Experience required in machine learning, sql.	Cloud Engineer	0	0	1	1	0
+AI Engineer	Netflix	New York, NY	189713	Experience required in python, sql, deep learning, java, machine learning.	AI Engineer	1	1	1	1	1
+Cloud Engineer	Facebook	Austin, TX	135017	Experience required in deep learning, machine learning, python, sql.	Cloud Engineer	1	0	1	1	1
+Data Scientist	Google	Austin, TX	156320	Experience required in java, sql.	Data Scientist	0	1	1	0	0
+Software Engineer	Netflix	New York, NY	117751	Experience required in sql, python, machine learning, deep learning, java.	Software Engineer	1	1	1	1	1
+Machine Learning Engineer	Google	San Francisco, CA	196400	Experience required in python, deep learning, machine learning, java.	Machine Learning Engineer	1	1	0	1	1
+AI Engineer	Tesla	Los Angeles, CA	195864	Experience required in deep learning, python.	AI Engineer	1	0	0	0	1
+Cloud Engineer	Microsoft	Los Angeles, CA	168069	Experience required in python, deep learning, java, machine learning, sql.	Cloud Engineer	1	1	1	1	1
+AI Engineer	IBM	Seattle, WA	195647	Experience required in sql, deep learning, java, machine learning, python.	AI Engineer	1	1	1	1	1
+Software Engineer	Facebook	San Francisco, CA	195510	Experience required in java, python.	Software Engineer	1	1	0	0	0
+Data Scientist	Tesla	Austin, TX	144748	Experience required in machine learning, python, sql, java.	Data Scientist	1	1	1	1	0
+Data Scientist	Tesla	Seattle, WA	95801	Experience required in sql, python, machine learning, deep learning, java.	Data Scientist	1	1	1	1	1
+Cloud Engineer	Google	San Francisco, CA	109190	Experience required in java, python, sql, machine learning.	Cloud Engineer	1	1	1	1	0
+AI Engineer	Apple	Boston, MA	139689	Experience required in sql, deep learning.	AI Engineer	0	0	1	0	1
+Data Scientist	Google	Austin, TX	194290	Experience required in deep learning, java, python, machine learning, sql.	Data Scientist	1	1	1	1	1
+Data Scientist	Amazon	New York, NY	140993	Experience required in java, deep learning.	Data Scientist	0	1	0	0	1
+Data Scientist	Apple	Seattle, WA	119592	Experience required in deep learning, sql.	Data Scientist	0	0	1	0	1
+Software Engineer	Google	New York, NY	100647	Experience required in machine learning, java, python.	Software Engineer	1	1	0	1	0
+AI Engineer	Amazon	New York, NY	98716	Experience required in python, java, sql, machine learning, deep learning.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Google	Austin, TX	178891	Experience required in java, sql, python, machine learning, deep learning.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Tesla	San Francisco, CA	177545	Experience required in deep learning, java.	AI Engineer	0	1	0	0	1
+AI Engineer	Tesla	Austin, TX	179912	Experience required in python, deep learning, java, sql, machine learning.	AI Engineer	1	1	1	1	1
+Machine Learning Engineer	Facebook	Los Angeles, CA	160316	Experience required in deep learning, python, java.	Machine Learning Engineer	1	1	0	0	1
+AI Engineer	Tesla	Boston, MA	92368	Experience required in sql, deep learning, java, machine learning, python.	AI Engineer	1	1	1	1	1
+Software Engineer	Netflix	Boston, MA	167575	Experience required in python, sql, deep learning.	Software Engineer	1	0	1	0	1
+Machine Learning Engineer	Uber	Seattle, WA	96655	Experience required in java, python, machine learning.	Machine Learning Engineer	1	1	0	1	0
+Data Scientist	IBM	Boston, MA	196477	Experience required in java, machine learning.	Data Scientist	0	1	0	1	0
+AI Engineer	Microsoft	San Francisco, CA	160031	Experience required in deep learning, sql, machine learning.	AI Engineer	0	0	1	1	1
+AI Engineer	Airbnb	New York, NY	166429	Experience required in deep learning, java, sql, python.	AI Engineer	1	1	1	0	1
+Machine Learning Engineer	Uber	Seattle, WA	181083	Experience required in machine learning, python, deep learning.	Machine Learning Engineer	1	0	0	1	1
+Software Engineer	Facebook	Boston, MA	177922	Experience required in python, machine learning, deep learning.	Software Engineer	1	0	0	1	1
+AI Engineer	Airbnb	San Francisco, CA	145766	Experience required in sql, java, machine learning.	AI Engineer	0	1	1	1	0
+Software Engineer	Google	San Francisco, CA	103403	Experience required in python, sql, deep learning.	Software Engineer	1	0	1	0	1
+AI Engineer	Apple	Boston, MA	122097	Experience required in sql, deep learning.	AI Engineer	0	0	1	0	1
+AI Engineer	Microsoft	San Francisco, CA	168657	Experience required in machine learning, sql, python, java, deep learning.	AI Engineer	1	1	1	1	1
+Cloud Engineer	Microsoft	Austin, TX	100966	Experience required in sql, java, python, deep learning.	Cloud Engineer	1	1	1	0	1
+Cloud Engineer	Apple	Boston, MA	189157	Experience required in java, sql.	Cloud Engineer	0	1	1	0	0
+Cloud Engineer	Facebook	Los Angeles, CA	183848	Experience required in machine learning, java.	Cloud Engineer	0	1	0	1	0
+AI Engineer	Amazon	San Francisco, CA	142921	Experience required in sql, java, deep learning, python.	AI Engineer	1	1	1	0	1
+AI Engineer	Tesla	New York, NY	139726	Experience required in java, deep learning, sql, python.	AI Engineer	1	1	1	0	1
+AI Engineer	IBM	New York, NY	140300	Experience required in python, machine learning.	AI Engineer	1	0	0	1	0
+Machine Learning Engineer	Apple	San Francisco, CA	112677	Experience required in machine learning, deep learning, java, sql, python.	Machine Learning Engineer	1	1	1	1	1
+Machine Learning Engineer	Airbnb	Los Angeles, CA	145609	Experience required in java, machine learning, python.	Machine Learning Engineer	1	1	0	1	0
+Software Engineer	IBM	New York, NY	186825	Experience required in sql, python, machine learning, java.	Software Engineer	1	1	1	1	0
+Data Scientist	Apple	San Francisco, CA	146661	Experience required in deep learning, python.	Data Scientist	1	0	0	0	1
+AI Engineer	Airbnb	Boston, MA	121024	Experience required in python, machine learning, sql, deep learning, java.	AI Engineer	1	1	1	1	1
+Data Scientist	Google	New York, NY	198211	Experience required in java, deep learning, machine learning, sql.	Data Scientist	0	1	1	1	1
+AI Engineer	IBM	San Francisco, CA	160313	Experience required in python, machine learning.	AI Engineer	1	0	0	1	0
+Cloud Engineer	Uber	Austin, TX	143006	Experience required in python, sql, deep learning.	Cloud Engineer	1	0	1	0	1
+Machine Learning Engineer	Amazon	Seattle, WA	185285	Experience required in java, python, machine learning, sql, deep learning.	Machine Learning Engineer	1	1	1	1	1
+AI Engineer	Amazon	Austin, TX	105338	Experience required in sql, machine learning.	AI Engineer	0	0	1	1	0
+Machine Learning Engineer	Tesla	Los Angeles, CA	158027	Experience required in python, machine learning, deep learning, java.	Machine Learning Engineer	1	1	0	1	1
+Machine Learning Engineer	Netflix	San Francisco, CA	182772	Experience required in python, sql, java, machine learning, deep learning.	Machine Learning Engineer	1	1	1	1	1
+Data Scientist	IBM	Boston, MA	170135	Experience required in java, python.	Data Scientist	1	1	0	0	0
+Software Engineer	Netflix	Boston, MA	109508	Experience required in deep learning, java, sql, python, machine learning.	Software Engineer	1	1	1	1	1
+Cloud Engineer	Apple	Boston, MA	93051	Experience required in deep learning, java, machine learning, sql, python.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	Google	Boston, MA	138747	Experience required in python, machine learning, deep learning.	Machine Learning Engineer	1	0	0	1	1
+Data Scientist	Facebook	San Francisco, CA	177142	Experience required in python, machine learning, deep learning.	Data Scientist	1	0	0	1	1
+Machine Learning Engineer	Facebook	Los Angeles, CA	177235	Experience required in deep learning, sql, java.	Machine Learning Engineer	0	1	1	0	1
+Software Engineer	Amazon	Austin, TX	144021	Experience required in deep learning, sql, java, machine learning, python.	Software Engineer	1	1	1	1	1
+Cloud Engineer	Airbnb	Boston, MA	156412	Experience required in python, machine learning, deep learning, sql, java.	Cloud Engineer	1	1	1	1	1
+Software Engineer	Airbnb	New York, NY	148335	Experience required in deep learning, sql, java, machine learning.	Software Engineer	0	1	1	1	1
+Machine Learning Engineer	Tesla	Boston, MA	146179	Experience required in python, java, machine learning, sql, deep learning.	Machine Learning Engineer	1	1	1	1	1
+Cloud Engineer	Airbnb	Los Angeles, CA	122093	Experience required in python, machine learning, java, deep learning, sql.	Cloud Engineer	1	1	1	1	1
+Machine Learning Engineer	IBM	Seattle, WA	159678	Experience required in sql, deep learning.	Machine Learning Engineer	0	0	1	0	1
+AI Engineer	IBM	Austin, TX	170738	Experience required in java, deep learning.	AI Engineer	0	1	0	0	1
+AI Engineer	Tesla	Seattle, WA	129734	Experience required in machine learning, python, deep learning, java.	AI Engineer	1	1	0	1	1
+Data Scientist	Apple	Los Angeles, CA	162615	Experience required in deep learning, sql, python, machine learning, java.	Data Scientist	1	1	1	1	1
+AI Engineer	Uber	Austin, TX	163523	Experience required in deep learning, python, machine learning.	AI Engineer	1	0	0	1	1
+Data Scientist	Facebook	New York, NY	195103	Experience required in python, machine learning, deep learning.	Data Scientist	1	0	0	1	1
+AI Engineer	Facebook	Seattle, WA	184476	Experience required in machine learning, deep learning, sql, python.	AI Engineer	1	0	1	1	1
+Software Engineer	Facebook	Seattle, WA	192769	Experience required in deep learning, machine learning, python, java, sql.	Software Engineer	1	1	1	1	1
+AI Engineer	Microsoft	Seattle, WA	107019	Experience required in sql, python.	AI Engineer	1	0	1	0	0
