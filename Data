@@ -1,0 +1,6 @@
+title	company	location	salary	summary	standardized_title	python	java	sql	machine learning	deep learning
+Software Engineer	Google	New York, NY	130000	Knowledge of Java, Python, and SQL required.	Software Engineer	1	1	1	0	0
+Data Scientist	Amazon	New York, NY	150000	Expertise in Python, Machine Learning, Deep Learning.	Data Scientist	1	0	0	1	1
+AI Engineer	Microsoft	New York, NY	145000	Proficiency in Deep Learning and Machine Learning.	AI Engineer	0	0	0	1	1
+Machine Learning Engineer	Facebook	New York, NY	140000	Strong Python and AWS experience needed.	Machine Learning Engineer	1	0	0	0	0
+Software Developer	IBM	New York, NY	125000	Java, SQL, and cloud platforms required.	Software Engineer	0	1	1	0	0
